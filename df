@@ -1,0 +1,27 @@
+[33mcommit 9e72cc64fe190a59dd9684170b6f473a261cb9bc[m[33m ([m[1;36mHEAD -> [m[1;32mfooter[m[33m, [m[1;31morigin/footer[m[33m)[m
+Author: DM <dsbmach@gmail.com>
+Date:   Sun Dec 6 15:11:30 2020 -0500
+
+    Add footer styles
+
+[33mcommit 1e86cb989cbb548580b8e15acc32ae7da2487919[m
+Author: DM <dsbmach@gmail.com>
+Date:   Sun Dec 6 15:09:17 2020 -0500
+
+    Add footer markup
+
+[33mcommit fa9bb125fc3a08a06fac338e8f92b1a3cc819c0e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Denis <dsbmach@gmail.com>
+Date:   Tue Dec 1 23:06:18 2020 -0500
+
+    Header (#1)
+    
+    * Add header markup
+    
+    * Add header styles
+
+[33mcommit bebc5c82afb98d65ea561b223077ffbf34305ec2[m
+Author: ooloo bot <66779420+ooloo-bot@users.noreply.github.com>
+Date:   Sun Nov 29 19:43:04 2020 +0100
+
+    Initial commit
